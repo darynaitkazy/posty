@@ -1,0 +1,31 @@
+<?php
+    return [
+        'Home' => 'Домашняя страница',
+        'Posts' => 'Посты',
+        'Login' => 'Войти',
+        'Register' => 'Регистрация',
+        'Logout' => 'Выйти',
+        'Post' => 'Запостить',
+        'Post something!' => 'Напиши что то!',
+        'Like' => 'Лайк',
+        'Unlike' => 'Дизлайк',
+        'Delete' => 'Удалить',
+        'like' => 'лайк',
+        'likes' => 'лайков',
+        'Posted' => 'запостил',
+        'posts' => 'посты',
+        'and' => 'и',
+        'received ' => 'получил ',
+        'minutes ago' => 'минут назад',
+        'Your Email' => 'Ваш Email',
+        'Password' => 'Пароль',
+        'Enter password' => 'Введите пароль',
+        'Remember me' => 'Запомнить меня',
+        'Your name' => 'Ваше имя',
+        'Username' => 'Ваш username',
+        'Choose a password' => 'Выберите пароль',
+        'Repeat your password' => 'Повторите пароль',
+        'Posted' => 'Запостил',
+        'does not have any posts' => 'ничего пока не постил'
+    ]
+?>

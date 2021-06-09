@@ -1,0 +1,31 @@
+<?php
+    return [
+        'Home' => 'Home',
+        'Posts' => 'Posts',
+        'Login' => 'Login',
+        'Register' => 'Register',
+        'Logout' => 'Logout',
+        'Post' => 'Post',
+        'Post something!' => 'Post something!',
+        'Like' => 'Like',
+        'Unlike' => 'Unlike',
+        'Delete' => 'Delete',
+        'like' => 'like',
+        'likes' => 'likes',
+        'Posted' => 'Posted',
+        'posts' => 'posts',
+        'and' => 'and',
+        'received ' => 'received ',
+        'minutes ago' => 'minutes ago',
+        'Your Email' => 'Your Email',
+        'Password' => 'Password',
+        'Enter password' => 'Enter password',
+        'Remember me' => 'Remember me',
+        'Your name' => 'Your name',
+        'Username' => 'Username',
+        'Choose a password' => 'Choose a password',
+        'Repeat your password' => 'Repeat your password',
+        'Posted' => 'Posted',
+        'does not have any posts' => 'does not have any posts'
+    ]
+?>
